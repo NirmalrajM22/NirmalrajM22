@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NirmalrajM22
-- 👀 I’m interested in Cloud and AI
-- 🌱 I’m currently learning Python and DSA
+- 👋 Hi, I’m Nirmalraj
+- 👀 I’m interested in DSA and Agentic AI 
+- 🌱 I’m currently learning C# and DSA
 
 
 <!---
